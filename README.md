@@ -1,2 +1,2 @@
-# NewsApp
-I created a news app folder
+# myProject
+I created a Portfolio 
